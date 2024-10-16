@@ -1,9 +1,9 @@
 # catiecheck.github.io
 
-##Courses
+## Courses
    - CSC 101 - *Introduction to Computing*
 
-##Projects
+## Projects
 
 
 
